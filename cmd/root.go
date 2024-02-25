@@ -1,6 +1,5 @@
 /*
 Copyright © 2023 Ezequiel Campos <e.g.campos@hotmail.com>
-
 */
 package cmd
 
